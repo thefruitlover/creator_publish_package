@@ -13,6 +13,10 @@
     "developerName": "LongLong",
     "category": "Productivity",
     "capabilities": [],
-    "defaultPrompt": "Use Creator Publish Package to package my video for the platforms I select."
+    "defaultPrompt": [
+      "Package my video for the platforms I select."
+    ],
+    "composerIcon": "./skills/creator-publish-package/assets/icon.svg",
+    "logo": "./skills/creator-publish-package/assets/icon.svg"
   }
 }
