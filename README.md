@@ -4,7 +4,7 @@
 
 ## 中文
 
-Creator Publish Package 是一个面向视频创作者的 ChatGPT Skill。提供一份视频脚本和一张干净的基础封面，再选择 YouTube、Bilibili 和 REDnote（小红书）中的任意平台组合，它会为所选平台分别生成平台原生的标题、简介或正文、标签与封面。
+Creator Publish Package 是一个面向视频创作者的 ChatGPT Plugin。它内置同名 Skill：提供一份视频脚本和一张干净的基础封面，再选择 YouTube、Bilibili 和 REDnote（小红书）中的任意平台组合，它会为所选平台分别生成平台原生的标题、简介或正文、标签与封面。
 
 它不会简单复制或翻译同一套内容：YouTube 偏重好奇心与观看收益，Bilibili 偏重清晰度与信息密度，REDnote 偏重个人经历与实用价值。
 
@@ -51,7 +51,7 @@ publish-package/
 
 ## English
 
-Creator Publish Package is a ChatGPT Skill for video creators. Provide one video script, one clean base cover image, and any combination of YouTube, Bilibili, and REDnote. It creates platform-native titles, descriptions or posts, tags, and covers only for the selected platforms.
+Creator Publish Package is a ChatGPT Plugin for video creators. It includes the Creator Publish Package Skill. Provide one video script, one clean base cover image, and any combination of YouTube, Bilibili, and REDnote. It creates platform-native titles, descriptions or posts, tags, and covers only for the selected platforms.
 
 It does not simply copy or translate one package. YouTube emphasizes curiosity and viewer payoff, Bilibili emphasizes clarity and information density, and REDnote emphasizes personal experience and practical value.
 
@@ -100,7 +100,7 @@ When YouTube is selected, its descriptions and tags are bilingual in Chinese and
 
 | Before / 使用前 | After / 使用后 |
 |---|---|
-| ![Original creator cover before using Creator Publish Package](assets/readme/before.jpg) | ![YouTube cover created with Creator Publish Package](assets/readme/after.png) |
+| ![Original creator cover before using Creator Publish Package](skills/creator-publish-package/assets/readme/before.jpg) | ![YouTube cover created with Creator Publish Package](skills/creator-publish-package/assets/readme/after.png) |
 
 同一张人物封面经过 Creator Publish Package 重新包装后，标题层级更清楚，人物保持一致，并加入了与主题相关的辅助视觉。
 
