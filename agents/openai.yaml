@@ -1,0 +1,14 @@
+interface:
+  display_name: Creator Publish Package
+  short_description: Create platform-native publishing packages
+  default_prompt: Use $creator-publish-package to create a publish package from my
+    Notion script and cover.png.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
