@@ -1,6 +1,6 @@
 {
   "name": "creator-publish-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn one video script and cover image into platform-native publishing packages for YouTube, Bilibili, and REDnote.",
   "author": {
     "name": "LongLong"
@@ -8,7 +8,7 @@
   "skills": "./skills/",
   "interface": {
     "displayName": "Creator Publish Package",
-    "shortDescription": "Create native video publishing packages.",
+    "shortDescription": "Create video publishing kits",
     "longDescription": "Create titles, descriptions or posts, tags, and platform-specific covers for any selected combination of YouTube, Bilibili, and REDnote.",
     "developerName": "LongLong",
     "category": "Productivity",
